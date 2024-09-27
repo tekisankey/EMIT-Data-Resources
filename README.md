@@ -1,4 +1,4 @@
-# EMIT-Data-Resources  
+# EMIT-Data-Resources  teki version
 
 Welcome to the EMIT-Data-Resources repository. This repository provides guides, short how-tos, and tutorials to help users access and work with data from the [Earth Surface Mineral Dust Source Investigation (EMIT) mission](https://lpdaac.usgs.gov/data/get-started-data/collection-overview/missions/emit-overview/). In the interest of open science this repository has been made public but is still under active development. All notebooks and scripts should be functional, however, changes or additions may be made. Make sure to consult the [CHANGE_LOG.md](CHANGE_LOG.md) for the most recent changes to the repository. Contributions from all parties are welcome.  
 
